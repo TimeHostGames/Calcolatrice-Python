@@ -1,6 +1,6 @@
-# ENGLISH
+## ENGLISH
 
-## Calculator written in python made by TimeHostGames
+### Calculator written in python made by TimeHostGames
 
 English will be added in the next update
 
@@ -10,9 +10,9 @@ It will come a graphic part soon!
 
 28/08/2021 - First version of calculator - VERSION - 0.0.1
 
-### ITALIANO
+## ITALIANO
 
-## Calcolatrice Python scritta da TimeHostGames
+### Calcolatrice Python scritta da TimeHostGames
 
 Calcolatrice scritta in python.
 
