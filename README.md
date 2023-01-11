@@ -1,23 +1,21 @@
-## ENGLISH
 
-### Calculator written in python made by TimeHostGames
+# Python Crazy Calculator
 
-English will be added in the next update
+This is a special calculator. You've never seen her!
 
-It will come a graphic part soon!
 
-#### UPDATE ####
+## Authors
 
-28/08/2021 - First version of calculator - VERSION - 0.0.1
+- [@TimeHostGames](https://www.github.com/timehostgames)
 
-## ITALIANO
 
-### Calcolatrice Python scritta da TimeHostGames
+## Documentation
 
-Calcolatrice scritta in python.
+Coming Soon
 
-Verrà aggiunta la parte grafica prossimamente!
 
-##### AGGIORNAMENTI ####
+## Version History
 
-28/08/2021 - Prima versione della calcolatrice - VERSIONE - 0.0.1
+```bash
+  28/08/2021 - First version of calculator - VERSION - 0.0.1
+```
